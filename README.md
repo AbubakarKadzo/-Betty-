@@ -1,2 +1,1 @@
-# -Betty-
-this repository is called Betty
+my first readme
